@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "news-scrapping-334015",
+  "private_key_id": "f39648c917d2619bc41be52808aa9bb48c0abf62",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC0+CdM98aChjgt\nPO41TIWDceygndLbX3EvXUb+Gu7/DGbu1S8GLqDni0RsyG9nl10lYxhLMYV2eJE1\nq2SRR41v90DA4LvfvsKb8tvTQG4Tm72ZN5wti94ZWuT5dNQXSoEw75Kq0gssiXBV\ndgkDK94fxyCjE3oWEtl02i9zTDfUXXZhf5+9u1BQnWYx3jpDgINAOjViPg6ZkFFM\n3Oe6ij50JCh72j7dm/9VuqSKIEWKK6BiHZAyD9wcvHnv12Pl6jynIPtlBkZqzKok\nYg2z1hXZTYE1i/FTMmUsW+2akz5EyDyblf2o9Vb238/07gUok2ECze1XROYXNA2U\nbpjoUWWTAgMBAAECggEABmxechLDXC5Tv8tPWzCdoTuXHgusCHb78ftEwfqGbCLD\nuTYePAEbW0yWqlPM8dIuD13T5sCvD4maVzDVBNEThJtelC9bNnGzakygSoBux8m5\n3OkxOm6h/KgSGNvxi+gW63voFUxs8sY9aKh5YRWasJRlT1R+0K9s7NhdDHcdQ4TZ\nwqLkPSvAYHSid/lV8F8IBYo4rycC5A4VRp+JsSlHwpfJ1xxSXMuU+r57lzt02B0Y\nJwIcN8sdzyIy/wK9asKJCmyu/1ktBtSRPYt2apYaoSItqi1N8b7q4lKDAE1LUpsw\n20G1Ew3gWRdwOG142AGGIQqvYolGEyDc7xK/YBLc8QKBgQDk7Oi+AZ45XfksHUvf\nMKV1+4/DCLqZY4y4ed6wxhSreQsCKqq4VwBSf8TEbe3ztCtxhCUL5ZjOIojspt2o\n8akGd/KSlknOH2XxYTiZhQ40pOnS88qQl8AAORdFTUQ+3VxjRpo3iQSfYV9Vk6u1\n3xhtcxmAZAIHltJpwDujou5O4wKBgQDKX0u/hSAOSTJGq11pblld8nLFsQUvuViT\nchNm16pQ8fCxyGjUOmvdJkjRaa/ApqFFNvlkAkopCoGsvKa0KuakZ/ZBL2qa0Edw\n1LFkHBaGZ1it5+teKKb8LCPYNq29LoqFXip0ZoajMPAEtko40gh2vIjtIwZYtP5G\nMyLJO60dkQKBgQDgMTuFySPhXqzFjTNess94ChMyl/vWeG25xHBYgsR/YZ1sU8i5\nm0qPgN182YOtpYbeNuHpEsNhLOUXjhuKdpBn61Q+RrylBo7Zo7LAdlQBLnhnxaVd\nkZ/RGBg4IIFzZ2oxN1WUibVjOQMaVfJVvNS5a31QBaEPOZ97PW2qxcfIrQKBgQCU\nVkHJwqT6k8CceGPiMhajfGGQcu8gSjWY7lc2XQLkjlMlnYbpeWEzGyrpBRTkm78+\nYstu+Rau+pqOqUFwcrnY7LNemIkFrYGQPPdCMCx6nCouXv7xZ87urNQhWgMD1qeG\nlr170OMDn41vhsbk21+E2TFs0O2H/DMd9cGby3hbYQKBgQDeYAYrZwpMzjD9/+xd\nB586E+mJHxlJFjyfgkskoRXkg0zAhtjJ0b66hC24jx6Aw8G+tx+oebiEFeJDFlfF\nTOz+XIWaT+ZlAJ9yfMmSZLpXLrUBb9LcF54M2LiebhdSn/biekMvY1noIT2IBFvb\npXY/HzlKDvkSEamMY0N6ecjO0A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "pubsubservice@news-scrapping-334015.iam.gserviceaccount.com",
+  "client_id": "101181031562861997331",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pubsubservice%40news-scrapping-334015.iam.gserviceaccount.com"
+}
