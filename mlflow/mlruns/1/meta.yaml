@@ -1,0 +1,4 @@
+artifact_location: file:///C:/Users/krishna/Desktop/mlflow/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: Social NLP Experiments

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/krishna/Desktop/mlflow/mlruns/0/38acbb1474fa4afdb8e0fb3e0a4efbe0/artifacts
+end_time: 1652076893417
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 38acbb1474fa4afdb8e0fb3e0a4efbe0
+run_uuid: 38acbb1474fa4afdb8e0fb3e0a4efbe0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1652076880442
+status: 3
+tags: []
+user_id: krishna
